@@ -57,7 +57,7 @@
 		#intro:after {
 			content: '';
 			background: url("images/overlay.png");
-			width: 100%;
+			width: 101%;
 			height: 100%;
 			position: absolute;
 			left: 0;
@@ -80,7 +80,7 @@
 		#one.left:before, #one.right:after {
 			content: '';
 			background: url("images/overlay.png");
-			width: 100%;
+			width: 101;
 			height: 100%;
 			position: absolute;
 			left: 0;
@@ -103,7 +103,7 @@
 		#two.left:before, #two.right:after {
 			content: '';
 			background: url("images/overlay.png");
-			width: 100%;
+			width: 101%;
 			height: 100%;
 			position: absolute;
 			left: 0;
